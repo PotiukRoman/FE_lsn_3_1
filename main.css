@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block{
+    width: 350px;
+    height: 150px;
+    background-color: aqua;
+    margin: 20px auto;
+}
+
+.block-one{
+    outline: 2px dashed red;
+}
+
+.block-two{
+    background-color: yellow;
+    outline: 2px dotted red;
+}
+
+.block-three{
+    margin: 40px auto;
+    outline: 20px inset blue;
+}
+
+.block-four{
+    border-left: 10px solid black;
+}
